@@ -1,5 +1,6 @@
 # Data-Science-Project
-See Report Here: file:///C:/Users/jordankq/Documents/STOR%20320/Final%20Report%20JGKQ.html
+
+See Report Here: 
 
 **Question 1 Motivation**
 
