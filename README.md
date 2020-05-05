@@ -1,4 +1,6 @@
 # Data-Science-Project
+See Report Here: file:///C:/Users/jordankq/Documents/STOR%20320/Final%20Report%20JGKQ.html
+
 **Question 1 Motivation**
 
 Being a college town, it would be interesting to see if there are more reports and arrests for certain crimes, such as throwing loud parties, during the months in which classes are in session. Furthermore, it would be interesting to see if those numbers have changed throughout the years as a result of different populations of college students in Chapel Hill. 
